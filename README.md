@@ -1,5 +1,17 @@
-# Hi there 👋 Welcome to my profile!
+# 👋 Hello, I'm Max.
 
-[![](https://raw.githubusercontent.com/ping-maxwell/ping-maxwell/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ping-maxwell/ping-maxwell/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ping-maxwell/ping-maxwell/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ping-maxwell/ping-maxwell/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ping-maxwell/ping-maxwell/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+I'm a core contrbutor to Better Auth, but I love to contribute to any open source software. 👀
+
+## Top Contributions
+
+1. [Better Auth](https://github.com/better-auth/better-auth) ⭐ 8K+
+2. [Better Auth UI](https://github.com/daveyplate/better-auth-ui) ⭐ 100+
+
+## Better Auth Projects
+
+1. [Better Auth Kit](https://github.com/ping-maxwell/better-auth-kit) ⭐ 4 - (😭 Please go star!! It's a new project that would be huge! 👀)
+2. [Convex Better Auth](https://github.com/ping-maxwell/convex-better-auth) ⭐ 28 
+
+## Socials
+
+[X / Twitter](https://x.com/PingStruggles)
