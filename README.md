@@ -7,7 +7,7 @@ I'm a core contrbutor to Better Auth, but I love to contribute to any open sourc
 1. [Better Auth](https://github.com/better-auth/better-auth) ⭐ 8K+
 2. [Better Auth UI](https://github.com/daveyplate/better-auth-ui) ⭐ 100+
 
-## Better Auth Projects
+## Projects
 
 1. [Better Auth Kit](https://github.com/ping-maxwell/better-auth-kit) ⭐ 4 - (😭 Please go star!! It's a new project that would be huge! 👀)
 2. [Convex Better Auth](https://github.com/ping-maxwell/convex-better-auth) ⭐ 28 
