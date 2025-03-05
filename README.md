@@ -14,4 +14,5 @@ I'm a core contrbutor to Better Auth, but I love to contribute to any open sourc
 
 ## Socials
 
-[X / Twitter](https://x.com/PingStruggles)
+* [X / Twitter](https://x.com/PingStruggles)
+* [Youtube](https://www.youtube.com/@Maxwell-Chen)
