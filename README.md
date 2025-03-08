@@ -5,7 +5,7 @@ I'm a core contrbutor to Better Auth, but I love to contribute to any open sourc
 ## Top Contributions
 
 1. [Better Auth](https://github.com/better-auth/better-auth) ⭐ 8K+
-2. [Better Auth UI](https://github.com/daveyplate/better-auth-ui) ⭐ 100+
+2. [Better Auth UI](https://github.com/daveyplate/better-auth-ui) ⭐ 200+
 
 ## Projects
 
