@@ -10,7 +10,7 @@ I'm a core contrbutor to Better Auth, but I love to contribute to any open sourc
 ## Projects
 
 1. [Better Auth Kit](https://github.com/ping-maxwell/better-auth-kit) ⭐ 13 - (😭 Please go star!! It's a new project that would be huge! 🙏)
-2. [Convex Better Auth](https://github.com/ping-maxwell/convex-better-auth) ⭐ 34
+2. [Convex Better Auth](https://github.com/ping-maxwell/convex-better-auth) ⭐ 35
 
 ## Socials
 
