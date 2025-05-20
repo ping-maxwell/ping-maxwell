@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Max.
 
-I'm a core contrbutor to Better Auth, but I love to contribute to any open source software. 👀
+I'm a core contributor to Better Auth, but I love to contribute to any open source software. 👀
 
 ## Top Contributions
 
