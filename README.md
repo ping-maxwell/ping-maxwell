@@ -4,16 +4,13 @@ I'm a core contributor to Better Auth, but I love to contribute to any open sour
 
 ## Top Contributions
 
-1. [Better Auth](https://github.com/better-auth/better-auth) ⭐ 13,000+
+1. [Better Auth](https://github.com/better-auth/better-auth) ⭐ 14,000+
 2. [Better Auth UI](https://github.com/daveyplate/better-auth-ui) ⭐ 400+
 
 ## Projects
 
-1. [Better Auth Kit](https://github.com/ping-maxwell/better-auth-kit) ⭐ 205
-2. [Convex Better Auth](https://github.com/ping-maxwell/convex-better-auth) ⭐ 34 - *Moved to Better-Auth-Kit*
-3. [Better Auth Dashboard](https://github.com/ping-maxwell/better-auth-dashboard) ⭐ 21 - *Moving to Better-Auth-Kit*
+1. [Better Auth Kit](https://github.com/ping-maxwell/better-auth-kit) ⭐ 220
 
 ## Socials
 
 * [X / Twitter](https://x.com/PingStruggles)
-* [Youtube](https://www.youtube.com/@Maxwell-Chen)
